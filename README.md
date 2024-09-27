@@ -9,7 +9,7 @@
     <h1>Guide to Becoming a Pro in Valorant</h1>
     <img src="https://wallpaper.forfun.com/fetch/34/34fcf4edbca5e75d4d31967a6b49373e.jpeg" />
     <p><a href="https://en.wikipedia.org/wiki/Valorant"
-    target="_blank">Valorant</a> can be both incredibly rewarding & daunting, especially for new players. Luckily, I'm here to help you become a pro player. With my tips and tricks, you'll rank up in no time.</p>
+    target="_blank">Valorant</a> can be both incredibly rewarding & frustratign, especially for new players. Luckily, I'm here to help you become a pro player. With my tips and tricks, you'll rank up in no time.</p>
     <h2>Picking the Right Agents</h2>
     <img src="https://www.esports.net/wp-content/uploads/2021/07/Valorant-Agents.jpg" />
     <p>Valorant agents each offer unique playstyles and abilities.. First, figure out if you prefer to support your team, scout out enemies, or deal direct damage. Then, focus on learning a few agents in your role. Learning a specific agent can help with how you learn to play the game. Once you’ve master one of them, start experimenting with others to be more flexible when it comes to team creation.</p>
@@ -25,6 +25,4 @@
     </ul>
     <div id="contact">
       <p><strong>email</strong>: aaron@valorantguide.com | <strong>phone</strong>: 123-456-7890
-    </div>
-  </body>
 </html>
