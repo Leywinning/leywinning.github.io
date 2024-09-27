@@ -1,30 +1,30 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Everyday with Isa</title>
+    <title>Gaming Time</title>
   </head>
   <body>
-    <a href="#contact"><img src="https://content.codecademy.com/courses/learn-html/elements-and-structure/profile.jpg" /></a>
-    <h3>by Isabelle Rodriguez | 1 day ago</h3>
-    <h1>An Insider’s Guide to NYFW</h1>
-    <img src="https://content.codecademy.com/courses/learn-html/elements-and-structure/image-one.jpeg" />
-    <p><a href="https://en.wikipedia.org/wiki/New_York_Fashion_Week"
-    target="_blank">NYFW</a> can be both amazingly fun & incredibly overwhelming, especially if you’ve never been. Luckily, I’m here to give you an insider’s guide and make your first show a pleasurable experience. By taking my tips and tricks, and following your gut, you’ll have an unforgettable experience!</p>
-    <h2>Getting Tickets & Picking the Shows</h2>
-    <img src="https://content.codecademy.com/courses/learn-html/elements-and-structure/image-two.jpeg" />
-    <p>If you’re lucky or connected you can get an invite, sans the price tag. But I wasn’t so lucky or connected my first 2 years so I’m here to help you out. First, plan out which shows are most important to you and make a schedule and this is a biggie: SET A BUDGET. If you’re worrying about blowing your cash the whole time you won’t have fun. Then check out prices, days, and times and prioritize the designers you want to see most. Lastly, purchase your tickets and get excited!</p>
-    <h2>Dressing for the Shows</h2>
-    <img src="https://content.codecademy.com/courses/learn-html/elements-and-structure/image-three.jpeg" />
-    <p>Always be true to your own sense of style, if you don’t you’ll be uncomfortable the whole time and it will show. Remember, NYFW is about expressing yourself and taking in what the designers have chosen to express through their new lines. Also it’s important to wear shoes you’ll be comfortable in all day. Obviously you want to look good, but you’ll be on your feet all day long, so be prepared.</p>
+    <a href="#contact"><img src="https://wallpapers.com/images/featured/valorant-305kescxw5dpup7y.jpg" /></a>
+    <h3>by Aaron Chen</h3>
+    <h1>Guide to Becoming a Pro in Valorant</h1>
+    <img src="https://wallpaper.forfun.com/fetch/34/34fcf4edbca5e75d4d31967a6b49373e.jpeg" />
+    <p><a href="https://en.wikipedia.org/wiki/Valorant"
+    target="_blank">Valorant</a> can be both incredibly rewarding & daunting, especially for new players. Luckily, I'm here to help you become a pro player. With my tips and tricks, you'll rank up in no time.</p>
+    <h2>Picking the Right Agents</h2>
+    <img src="https://www.esports.net/wp-content/uploads/2021/07/Valorant-Agents.jpg" />
+    <p>Valorant agents each offer unique playstyles and abilities.. First, figure out if you prefer to support your team, scout out enemies, or deal direct damage. Then, focus on learning a few agents in your role. Learning a specific agent can help with how you learn to play the game. Once you’ve master one of them, start experimenting with others to be more flexible when it comes to team creation.</p>
+    <h2>Mastering the Maps</h2>
+    <img src="https://media.discordapp.net/attachments/1168034408486416465/1289180378745278466/image.png?ex=66f7e24a&is=66f690ca&hm=cc76e920ad0aff86766c08ad6296c9c9058215291b1337f18d3b38fd073fdc8d&=&format=webp&quality=lossless&width=550&height=307" />
+    <p>Understanding the maps is an important aspect of the game. Always be aware of key spots like chokepoints and common hiding spots. Try to remember the callouts of each places and practice rotating through the map to react quickly to changes in the round. Good map knowledge can often win you the round even if your opponents have better aim!</p>
     <h4>Related Content</h4>
     <ul>
-      <li>How To Style Boyfriend Jeans</li>
-      <li>When Print Is Too Much</li>
-      <li>The Overalls Trend</li>
-      <li>Fall’s It Color: Blush</li>
+      <li>How To Use Aimlabs</li>
+      <li>How to Use Utility Like a Pro</li>
+      <li>Positioning Tips for Every Map</li>
+      <li>Agent Tier List</li>
     </ul>
     <div id="contact">
-      <p><strong>email</strong>: isa@fashionblog.com | <strong>phone</strong>: 917-555-1098 | <strong>address</strong>: 371 284th St, New York, NY, 10001</p>
+      <p><strong>email</strong>: aaron@valorantguide.com | <strong>phone</strong>: 123-456-7890
     </div>
   </body>
 </html>
