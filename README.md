@@ -1,5 +1,4 @@
 <html>
-<html>
   <head>
     <title>Gaming Time</title>
   </head>
